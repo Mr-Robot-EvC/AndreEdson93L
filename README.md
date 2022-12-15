@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python, CyberSecurity and Technology
 - 🌱 I’m currently learning ... Python, SQL and funny Cyber Stuff
 - 💞️ I’m looking to collaborate on ... whatever can bring knowledge to the Open Source.
-- 📫 How to reach me ... Linkedin (Andrea Edson Lorenzoni)
+- 📫 How to reach me ... Linkedin: https://www.linkedin.com/in/andrea-edson-lorenzoni-b296ab1aa/
 
 <!---
 AndreEdson93L/AndreEdson93L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
