@@ -25,7 +25,7 @@ I'm always open to new opportunities and collaborations, particularly in fronten
 
 Email: andreaedson93@gmail.com
 Phone: +39 3427119846
-[Linkedin: https://www.linkedin.com/in/andrea-edson-lorenzoni-b296ab1aa/](https://www.linkedin.com/in/andrea-edson-lorenzoni-b296ab1aa/)
+[Linkedin](https://www.linkedin.com/in/andrea-edson-lorenzoni-b296ab1aa/)
 Thank you for visiting my GitHub profile! I'm looking forward to the opportunity to discuss my qualifications further and demonstrate how I can contribute to the success of your projects.
 
 Sincerely,
