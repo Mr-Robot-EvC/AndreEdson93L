@@ -1,29 +1,55 @@
-👋 Hi, I'm Andrea Edson Lorenzoni! I'm a versatile developer with experience across software and web development, recently delving deep into Microsoft Cloud Products and Business Intelligence domains.
+**Andrea Edson Lorenzoni**  
+*Tech Support Specialist | Remote Work Enthusiast | Multilingual Professional*
 
-🛠 **Technologies & Skills**:
-- Languages: JavaScript ES6+, Java 17, SQL
-- Frameworks & Libraries: React, Angular, Spring Boot 3, Spring Framework 6
-- Databases & ORM: PostgreSQL, Hibernate, Java Database Connectivity API
-- Testing & CI/CD: JUnit 5, Docker, GitLab, Azure
-- Concepts: TDD, Design Patterns, SOLID Principles
+📍 **Location**: Based in Vila Nova de Gaia, Portugal  
+✉️ **Email**: andreaedson93@gmail.com  
+🌐 **LinkedIn**: [linkedin.com/in/andrea-edson-lorenzoni](https://www.linkedin.com/in/andrea-edson-lorenzoni)  
+💻 **GitHub**: [github.com/AndreEdson93L](https://github.com/AndreEdson93L)  
 
-🎓 **Education**:
-Completed an intensive bootcamp at Noroff School of Technology and Digital Media, Kristiansand, Norway.
+---
 
-🌍 **Languages**: Fluent in Italian, Portuguese, Spanish, and English. Adept at collaborating with multicultural teams.
+### **About Me**  
+Tech-savvy professional with a strong background in customer support, software development, and IT systems. Experienced in troubleshooting, problem-solving, and delivering seamless customer experiences, I specialize in supporting cloud platforms, managing tickets, and enhancing workflows with automation tools. Fluent in multiple languages, I bring adaptability and an international perspective to every team. My goal? To help clients thrive while working remotely.  
 
-🔧 **Work Experience**:
-- Technical Support Specialist at Microsoft Portugal
-- Business Intelligence Analyst at MSC Technology 
-- Software Developer roles in Italy 
+---
 
-💬 **Reach Out**:
-Looking for exciting roles and collaborations? Contact me:
-- 📧 Email: andreaedson93@gmail.com
-- 📞 Phone: +39 3427119846
-- [LinkedIn](https://www.linkedin.com/in/andrea-edson-lorenzoni-b296ab1aa/)
+### **Key Skills**  
+- **Technical Support**: Troubleshooting cloud platforms (Microsoft Azure, Dynamics 365, Office 365).  
+- **Programming**: Java, Python, SQL, and scripting for automation.  
+- **Ticket Management**: Efficiently handling tickets with tools like Jira and Confluence.  
+- **Collaboration**: Skilled in remote teamwork using VPNs and cloud platforms.  
+- **Languages**: Italian, Portuguese (native), English (C1), Spanish (C2), German (A2).  
 
-Thanks for stopping by! Looking forward to contributing to innovative projects.
+---
 
-Best,
-Andrea Edson Lorenzoni
+### **Professional Experience**  
+
+#### **Cloud Support Engineer**  
+*Microsoft | Lisbon, Portugal | 08/2021 – 08/2022*  
+- Delivered bilingual technical support for Microsoft’s cloud products to Italian enterprise clients.  
+- Streamlined workflows by scripting in Python to process tickets faster.  
+- Enhanced customer satisfaction through personalized support and effective problem-solving.  
+
+#### **Java Developer**  
+*CRIF | Bologna, Italy | 01/2023 – 07/2023*  
+- Developed backend microservices and contributed to e-commerce platforms using Java, Spring Boot, and PostgreSQL.  
+- Collaborated remotely with international teams for version control and project management.  
+
+#### **Low Voltage Technician**  
+*Sotecnica | Porto, Portugal | 08/2023 – 02/2024*  
+- Installed and maintained electrical systems, ensuring safety protocols were met.  
+- Gained hands-on experience with electrical equipment, contributing to efficient system performance.  
+
+---
+
+### **Education & Certifications**  
+- **Diploma in Java Development**, Noroff University (Norway)  
+- **Certified Microsoft Azure Fundamentals**  
+- **German A2 Certificate**, Goethe-Institut  
+
+---
+
+### **Interests**  
+Remote work, cloud platforms, tech innovations, and continuous learning in IT.  
+
+---
