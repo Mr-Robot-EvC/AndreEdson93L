@@ -1,9 +1,9 @@
 **Andrea Edson Lorenzoni**  
-*Tech Support Specialist | Remote Work Enthusiast | Multilingual Professional*
+*Software Developer*
 
-📍 **Location**: Based in Vila Nova de Gaia, Portugal  
+📍 **Location**: Based in Porto, Portugal  
 ✉️ **Email**: andreaedson93@gmail.com  
-🌐 **LinkedIn**: [linkedin.com/in/andrea-edson-lorenzoni](https://www.linkedin.com/in/andrea-edson-lorenzoni)  
+🌐 **LinkedIn**: [linkedin.com/in/andrea-edson-lorenzoni](https://www.linkedin.com/in/andrea-edson-lorenzoni-579973341/)  
 💻 **GitHub**: [github.com/AndreEdson93L](https://github.com/AndreEdson93L)  
 
 ---
@@ -19,26 +19,6 @@ Tech-savvy professional with a strong background in customer support, software d
 - **Ticket Management**: Efficiently handling tickets with tools like Jira and Confluence.  
 - **Collaboration**: Skilled in remote teamwork using VPNs and cloud platforms.  
 - **Languages**: Italian, Portuguese (native), English (C1), Spanish (C2), German (A2).  
-
----
-
-### **Professional Experience**  
-
-#### **Cloud Support Engineer**  
-*Microsoft | Lisbon, Portugal | 08/2021 – 08/2022*  
-- Delivered bilingual technical support for Microsoft’s cloud products to Italian enterprise clients.  
-- Streamlined workflows by scripting in Python to process tickets faster.  
-- Enhanced customer satisfaction through personalized support and effective problem-solving.  
-
-#### **Java Developer**  
-*CRIF | Bologna, Italy | 01/2023 – 07/2023*  
-- Developed backend microservices and contributed to e-commerce platforms using Java, Spring Boot, and PostgreSQL.  
-- Collaborated remotely with international teams for version control and project management.  
-
-#### **Low Voltage Technician**  
-*Sotecnica | Porto, Portugal | 08/2023 – 02/2024*  
-- Installed and maintained electrical systems, ensuring safety protocols were met.  
-- Gained hands-on experience with electrical equipment, contributing to efficient system performance.  
 
 ---
 
