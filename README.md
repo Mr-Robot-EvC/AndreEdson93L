@@ -30,6 +30,6 @@ Tech-savvy professional with a strong background in customer support, software d
 ---
 
 ### **Interests**  
-Remote work, cloud platforms, tech innovations, and continuous learning in IT.  
+Tech innovations, and continuous learning in IT.  
 
 ---
