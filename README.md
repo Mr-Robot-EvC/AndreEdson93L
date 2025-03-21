@@ -5,7 +5,8 @@
 ✉️ **Email**: andreaedson93@gmail.com  
 🌐 **LinkedIn**: [linkedin.com/in/andrea-edson-lorenzoni](https://www.linkedin.com/in/andrea-edson-lorenzoni-579973341/)  
 💻 **MyFirstGitHubAccount**: [github.com/AndreEdson93L](https://github.com/AndreEdson93L/AndreEdson93L) 
-💻 **MyNewGitHubAccount**: [github.com/AndreEdson93L](https://github.com/AndreEdson93L/AndreEdson93L)
+💻 **MyNewGitHubAccount**: [github.com/AndreEdson93L](https://github.com/AndreaEdsonLDeSouza93)
+---
 🚀 **Portfolio**: [MyPortfolio](https://andreaedsonldesouza93.github.io/HTML---Study/)
 
 ---  
